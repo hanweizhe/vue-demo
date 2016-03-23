@@ -7,7 +7,7 @@
     <router-view></router-view>
 </template>
 <script>
-    AV.initialize('Jku9QxEHJ8uHhkNxNXkCwYYF-gzGzoHsz', 's850DW7qVY1HjzKz8KpTFoUx');
+    AV.initialize('fHr5WDRKFh0WqyaCNzBYxrfO-gzGzoHsz', 'DMMYLjaFeCj0zOqYRCtugjdG');
 
     var VueRouter = require('vue-router')
     var router = new VueRouter();
